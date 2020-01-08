@@ -1,0 +1,11 @@
+Defina uma classe para representar um candidato a uma eleição
+com atributos para armazenar o nome do candidato e o número de votos, ambos privados.
+Defina um método de acesso para cada atributo
+um método para incrementar o número de votos do candidato
+um construtor para a classe que recebe como argumento o nome do candidato e inicializa o número de votos com zero. 
+
+
+Desenvolva um programa que cria um candidato com nome de sua escolha.
+Em seguida, deve ser lido um nome.
+Se o nome lido for o do seu candidato, incrementar o contador de votos.
+No final, imprimir o nome do candidato e o total de votos.
